@@ -1,8 +1,8 @@
-## Hi there, I'm Rehaan! 👋
+# Hi there, I'm Rehaan! 👋
 
 I'm a student of Data Science with a strong interest in NLP, Machine Learning, LLMs and AI agents.. I love building projects that solve real-world problems and sharing my knowledge with the community.
 
-**About Me 🌟**
+## **About Me 🌟**
 
 🔭 I’m currently working on using LoRa to efficiently fine-tune NLP models to optimize performance with limited computational power 🚀 
 
