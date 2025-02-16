@@ -42,6 +42,6 @@ I'm a student of Data Science with a strong interest in NLP, Machine Learning, L
 ## Let's Connect! 🤝
 I’m always open to collaborating on interesting projects or discussing ideas. Feel free to reach out to me:
 
-LinkedIn: 
+[Linkedin Profile](https://www.linkedin.com/in/rehaan-shaikh-2ab915298/)
 
 Email: 88rehaan88@gmail.com 
