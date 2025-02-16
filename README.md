@@ -33,11 +33,11 @@ I'm a student of Data Science with a strong interest in NLP, Machine Learning, L
 
 **Tools & Technologies:**
 
-Jupyter Notebooks 📓
+- Jupyter Notebooks 📓
 
-AWS ☁️
+- AWS ☁️
 
-Tableau, Power Bi 📈
+- Tableau, Power Bi 📈
 
 ## Let's Connect! 🤝
 I’m always open to collaborating on interesting projects or discussing ideas. Feel free to reach out to me:
