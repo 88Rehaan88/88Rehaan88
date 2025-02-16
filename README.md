@@ -3,6 +3,7 @@
 I'm a student of Data Science with a strong interest in NLP, Machine Learning, LLMs and AI agents.. I love building projects that solve real-world problems and sharing my knowledge with the community.
 
 **About Me 🌟**
+
 🔭 I’m currently working on using LoRa to efficiently fine-tune NLP models to optimize performance with limited computational power 🚀 
 
 🌱 I’m currently learning Advanced NLP Techniques,LLM fine-tuning, PEFT (Parameter-Efficient Fine-Tuning), and Retrieval-Augmented Generation (RAG).
