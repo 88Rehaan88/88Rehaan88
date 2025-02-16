@@ -1,6 +1,6 @@
 # Hi there, I'm Rehaan! 👋
 
-I'm a student of Data Science with a strong interest in NLP, Machine Learning, LLMs and AI agents.. I love building projects that solve real-world problems and sharing my knowledge with the community.
+I'm a student of Data Science with a strong interest in NLP, Machine Learning, LLMs and AI agents.. I love building projects and working on anything related to data science and AI.
 
 ## **About Me 🌟**
 
