@@ -12,8 +12,6 @@ I'm a student of Data Science with a strong interest in NLP, Machine Learning, L
 
 💬 Ask me about anything related to ML, NLP, LLms.
 
-📫 How to reach me: [Your Email or LinkedIn Profile].
-
 ## My Skills: 🛠️
 **Programming Languages:**
 - Python 🐍
