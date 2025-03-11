@@ -1,7 +1,5 @@
 # Hi there, I'm Rehaan! 👋
 
-I'm a student of Data Science with a strong interest in NLP, Machine Learning, LLMs and AI agents.. I love building projects and working on anything related to data science and AI.
-
 ## **About Me 🌟**
 
 🔭 I’m currently working on using BitFit and LoRa to efficiently fine-tune NLP models to optimize performance with limited computational power.
