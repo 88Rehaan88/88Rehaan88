@@ -1,43 +1,36 @@
-# Hi there, I'm Rehaan! 👋
+# Hi, I'm Rehaan 👋
 
-## **About Me 🌟**
+**AI Engineer** building LLM systems that replace manual work: RAG, agents and evaluation.
+MSc in NLP (Cardiff University) · Pune, India · Open to remote roles
 
-🔭 I’m currently working on using BitFit and LoRa to efficiently fine-tune NLP models to optimize performance with limited computational power.
+## What I've built
 
-🌱 I’m currently learning Advanced NLP Techniques,LLM fine-tuning, PEFT (Parameter-Efficient Fine-Tuning), LangChain and Retrieval-Augmented Generation (RAG).
+**[Airline Agentic Assistant](https://github.com/88Rehaan88/airline_agentic_assistant)**
+An agent for Boeing 737 manuals with a hand-built tool-calling loop (no LangChain), hybrid RAG, and structured table extraction, served through FastAPI.
 
-👯 I’m looking to collaborate on AI/ML, Data Science, NLP Projects etc.
+**[AeroRAG](https://github.com/88Rehaan88/AeroRAG-Aviation_Rag_System)**
+Table-aware RAG that reached 90% accuracy on labeled numeric queries where standard RAG failed.
 
-💬 Ask me about anything related to ML, NLP, LLms.
+**[Football Transfer Strategy Simulator](https://github.com/88Rehaan88/football-transfer-strategy-simulator)** · [Live demo](https://football-transfer-strategy-simulator.onrender.com)
+Scrapes Transfermarkt, simulates a full transfer window, and generates structured analysis with Gemini.
 
-## My Skills: 🛠️
-**Programming Languages:**
-- Python 🐍
+**[PEFT Methods Comparison](https://github.com/88Rehaan88/peft-methods-comparison)**
+BitFit, LoRA and Diff Pruning vs. full fine-tuning across 4 NLP tasks and 3 architectures (BERT, GPT-2, T5).
 
-- SQL 🗃️
+## Work
 
-- R 📊
+- **AI Engineer, 30 Days Hire**: LLM pipelines for job matching and resume tailoring, producing 150+ tailored resumes a day.
+- **AI Engineer (dissertation), SimplyDo**: semantic search over employee ideas with Gemini embeddings and FAISS, cutting average query time by 85%.
 
-**Frameworks & Libraries:**
-- PyTorch 🔥
+## Currently
 
-- TensorFlow 🤖
+- Adding an evaluation harness (test set, metrics, automated runs) to my RAG projects
+- Building agents with LangGraph and MCP
 
-- Scikit-learn 📚
+## Stack
 
-- Hugging Face Transformers 🤗
+Python · PyTorch · Hugging Face · FastAPI · FAISS · LangGraph · OpenAI, Gemini and Claude APIs · n8n
 
-**Tools & Technologies:**
+## Contact
 
-- Jupyter Notebooks 📓
-
-- AWS ☁️
-
-- Tableau, Power Bi 📈
-
-## Let's Connect! 🤝
-I’m always open to collaborating on interesting projects or discussing ideas. Feel free to reach out to me:
-
-Linkedin : [Linkedin Profile](https://www.linkedin.com/in/rehaan-shaikh-2ab915298/)
-
-Email: 88rehaan88@gmail.com 
+📧 shaikh.rehaan.rauf@gmail.com · [LinkedIn](https://www.linkedin.com/in/rehaan-shaikh-2ab915298/)
