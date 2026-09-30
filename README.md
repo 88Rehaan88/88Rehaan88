@@ -10,6 +10,7 @@ MSc in NLP (Cardiff University) · Pune, India · Open to remote roles
 - **[AeroRAG](https://github.com/88Rehaan88/AeroRAG-Aviation_Rag_System)**: table-aware RAG that reached 90% accuracy on labeled numeric queries where standard RAG failed.
 - **[Football Transfer Strategy Simulator](https://github.com/88Rehaan88/football-transfer-strategy-simulator)**: scrapes Transfermarkt, simulates a full transfer window, and generates structured analysis with Gemini.
 - **[PEFT Methods Comparison](https://github.com/88Rehaan88/peft-methods-comparison)**: BitFit, LoRA and Diff Pruning vs. full fine-tuning across 4 NLP tasks and 3 architectures (BERT, GPT-2, T5).
+- **[AI Restaurant Analytics Agent](https://github.com/88Rehaan88/AI-Restaurant-Analytics-Agent)**: ask questions about sales data in natural language; a LangChain agent writes and runs Python with Gemini to return inventory forecasts, trends and charts.
 
 ## Work
 
